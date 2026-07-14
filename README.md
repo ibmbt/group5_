@@ -3,4 +3,8 @@
 #### discrete mathematics.
 
 ## Team Members
-Ibrahim Butt 24043 <br> Muhammad Tahir Ahmad 24151 <br> Ammara Khan 24133 <br> Sara Abid 24112 <br> Israr Hussain 24045 <br>
+- Ibrahim Butt 24043
+- Muhammad Tahir Ahmad 24151
+- Ammara Khan 24133
+- Sara Abid 24112
+- Israr Hussain 24045
