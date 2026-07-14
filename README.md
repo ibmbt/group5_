@@ -1,6 +1,5 @@
 # group5_graphtheory
-### show n tell group 5
-#### discrete mathematics.
+### discrete mathematics Sem-1
 
 ## Team Members
 - Ibrahim Butt 24043
